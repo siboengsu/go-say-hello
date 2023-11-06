@@ -1,3 +1,3 @@
-module github.com/siboengsu/go-say-hello@v1.0.0
+module github.com/siboengsu/go-say-hello
 
 go 1.21.3
